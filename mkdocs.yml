@@ -1,5 +1,15 @@
-site_name: My Docs
+site_name: ShareCloud
 site_url: https://example.com/
+nav:
+  - Home: index.md
+  - About: about.md
+
 
 theme:
   name: material
+  features:
+    - navigation.tabs
+  extra:
+    social:
+      - icon: fontawesome/brands/linkedin
+        link: https://www.linkedin.com/company/sharecloud/
