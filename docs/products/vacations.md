@@ -1,0 +1,1 @@
+Puhkuste lahenduse kirjeldus
