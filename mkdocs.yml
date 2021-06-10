@@ -9,7 +9,7 @@ theme:
   name: material
   features:
     - navigation.tabs
-  extra:
-    social:
-      - icon: fontawesome/brands/linkedin
-        link: https://www.linkedin.com/company/sharecloud/
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/sharecloud/
