@@ -1,3 +1,3 @@
-# SC tooted
+# ShareCloud tooted
 
-Siin lehel on nimekiri toodetest
+Käesolevalt lehelt leiab informatsiooni ShareCloud OÜ poolt pakutavate lahenduste kohta.

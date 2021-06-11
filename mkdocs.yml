@@ -3,6 +3,7 @@ site_url: https://example.com/
 nav:
   - Avaleht: index.md
   - Tooted:
+    - Starter Intra: products/starter.md
     - Puhkused: products/vacations.md
 
   - _Juhendid:
