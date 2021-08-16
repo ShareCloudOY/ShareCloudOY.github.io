@@ -3,8 +3,17 @@
 Puhkuste halduse lahendus võimaldab kasutajatel täita puhkuseavaldusena digitaalse vormi 
 
 ## Puhkuse avalduse sisestamine
-(Lisa 1. Puhkuse avalduse sisestamine). Süsteem tuvastab kasutajaprofiili andmetest automaatselt kasuta nime ja tema ülemuse. 
-Süsteem võimaldab kasutajale välja pakkuda vaid neid puhkuseliike, mida tal on õigus kasutada. Sõltuvalt valitud puhkuseliigist arvutab süsteem tema kasutada olevate puhkusepäevade jäägi. Korraga on võimalik vormilt sisestada mitme puhkuse avaldused korraga. Süsteem teavitab ning arvestab riigipühadega ning hoiatab, kui sisestatav puhkus kattub mõne asendaja puhkusega. Samuti on võimalus avaldusega kaasa lisada ka dokument manusena.
+Süsteem tuvastab automaatselt sisselogitud kasutaja nime ja tema ülemuse.
+Töötaja saab vormil soovi korral määrata endale asendaja või mitu, valida töötasu saamise eelstuse ning soovi korral lisada täpsustava kommentaari lisatavate puhkuste kohta.
+
+ Süsteem pakub kasutajale vaid neid puhkuseliike, mida tal on õigus kasutada. Sõltuvalt valitud puhkuseliigist arvutab süsteem tema kasutada olevate puhkusepäevade jäägi. 
+ 
+ Samal vormil saab sisestada mitme puhkuse avaldused korraga. Süsteem arvestab ning teavitav riigipühadest valitud puhkuseperioodil ning hoiatab, kui sisestatav puhkus kattub mõne asendaja puhkusega. 
+ 
+ Puhkuseavaldusega on võimalik kaasa lisada manusena dokumenti.
+ 
+![](images/vacations/insertVacation.gif)
+
 
 ## Puhkuste kinnitamine
 Puhkusevaldus saadetakse seejärel kinnitamiseks otsesele juhile. Juhil on võimalik puhkuseavaldusi kinnitada ühekaupa või mitme töötaja avaldused korraga (Lisa 2. Puhkuste kinnitamine). 

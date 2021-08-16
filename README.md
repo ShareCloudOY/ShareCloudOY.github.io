@@ -12,6 +12,9 @@ pip install mkdocs-material
 ```
 mkdocs serve
 ```
+## Production
+Commit to 'master' branch will initialize pipeline to build up website on address: https://sharecloudoy.github.io
+
 
 ## More from
 * MkDocs installation: https://www.mkdocs.org/getting-started/#installation

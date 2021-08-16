@@ -28,14 +28,16 @@ theme:
     - navigation.top
   
 extra:
-  homepage: https://sharecloud.ee/
+  homepage: https://sharecloudoy.github.io
   generator: false
   social:
+    - icon: fontawesome/solid/cloud
+      link: https://sharecloud.ee
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/sharecloud/
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/ShareCloudOU
-copyright: Copyright &copy; 2021 ShareCloud OÜ
+copyright: Copyright &copy; 2021 
 markdown_extensions:
   - admonition
   - pymdownx.details

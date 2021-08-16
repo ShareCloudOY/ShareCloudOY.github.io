@@ -18,10 +18,10 @@ Albumid kuvatakse 3D kuubikuna, automaatselt keeratakse kuubikut määratud seku
 
 **Coverflow**
 
-Albumid kuvatakse ühel real 3D kaartidena, automaatselt keritakse albumieid määratud sekundite järel:
+Albumid kuvatakse ühel real 3D kaartidena, automaatselt keritakse albumeid määratud sekundite järel:
 ![](images/picturegallery/pic-coverflow.gif)
 
 **Grid**
 
-Albumid kuvatakse ühel mitmel real, dünaamilist liikumist ei ole:
+Albumid kuvatakse mitmel real, dünaamilist liikumist ei ole:
 ![](images/picturegallery/pic-standard.gif)
