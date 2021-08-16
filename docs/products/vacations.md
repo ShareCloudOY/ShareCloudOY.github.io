@@ -1,9 +1,9 @@
 # Puhkuste haldus
 
-Puhkuste halduse lahendus võimaldab kasutajatel täita puhkuseavaldusena digitaalse vormi 
+Puhkuste halduse lahendus võimaldab ettevõtetel hallata oma töötajate puhkuseid mugavalt ühes kohas.
 
 ## Puhkuse avalduse sisestamine
-Süsteem tuvastab automaatselt sisselogitud kasutaja nime ja tema ülemuse.
+Süsteem tuvastab automaatselt sisselogitud kasutaja nime ja tema otsese juhi.
 Töötaja saab vormil soovi korral määrata endale asendaja või mitu, valida töötasu saamise eelstuse ning soovi korral lisada täpsustava kommentaari lisatavate puhkuste kohta.
 
  Süsteem pakub kasutajale vaid neid puhkuseliike, mida tal on õigus kasutada. Sõltuvalt valitud puhkuseliigist arvutab süsteem tema kasutada olevate puhkusepäevade jäägi. 
@@ -15,16 +15,30 @@ Töötaja saab vormil soovi korral määrata endale asendaja või mitu, valida t
 ![](images/vacations/insertVacation.gif)
 
 
+## Minu puhkused
+
+Minu puhkuste vahelehel kuvatakse kóiki aktiivseid puhkuseid. Lisaks kuvatakse puhkused, mille puhul kasutaja on määratud asendajaks.
+![](images/vacations/my-vacations.png)
+
 ## Puhkuste kinnitamine
-Puhkusevaldus saadetakse seejärel kinnitamiseks otsesele juhile. Juhil on võimalik puhkuseavaldusi kinnitada ühekaupa või mitme töötaja avaldused korraga (Lisa 2. Puhkuste kinnitamine). 
+
+Puhkuste kinnitamise vahelehte näevad vaid kinnitajate gruppi kuuluvad kasutajad. Kasutajale näidatakse vaid tema alluvatele kuuluvaid puhkuseid. Puhkuseid on võimalik valida ühe või mitme kaupa ja kinnitada kõik või tagasi lükata. Tagasi lükkamisel on võimalus sisetada kommentaar otsuse kohta.
+
+![](images/vacations/approval.png)
+
+## Puhkusegraafik
+
+Puhkuse graafiku vaates on võimalik näha kõiki puhkuseid üheskoos. Vaheleht on nähtav kõigile kasutajatele. Vaadet on võimalik filtreerida aastate ja osakondade kaupa. Eraldi on võimalik kuvada ka ainult kinnitatud puhkused. Puhkused grupeeritakse töötajate ja puhkuse liigi järgi.
+
+![](images/vacations/schedule.png)
+
+## Raamatupidamise vaade
+
+Raamatupidamise vaheleht on nähtav vaid raamatupidamise gruppi kuuluvatele kasutajatele. Selles vaates saavad raamatupidajad puhkuseid muuta, kinnitada või tagasi lükata. Lisaks saab puhkuseid filtreerida puhkuse alguse, lõpu või kinnitamise staatuse järgi.
+
+![](images/vacations/accounting.png)
 
 ## Puhkuste aastavaade
-Kõik puhkused kuvatakse koondina aastavaates (Lisa 3. Puhkuste aastavaade) ja on värvidega eristatud vastavalt avalduse kinnitamise staatusele. Aastavaates saab mugavalt navigeerida aasta, kvartali ja kuude lõikes ja filtreerida isiku ja osakonna alusel.
+Kõik puhkused kuvatakse koondina aastavaates ja on värvidega eristatud vastavalt avalduse kinnitamise staatusele. Aastavaates saab mugavalt navigeerida aasta, kvartali ja kuude lõikes ja filtreerida isiku ja osakonna alusel.
 
 ![](images/vacations/yearview.png)
-
-## Puhkuste graafiku vaade
-Eraldi puhkuste graafiku vaade võimaldab kuvada puhkuseplaani (Lisa 4. Puhkusegraafiku vaade). Seal on võimalik puhkuseid filtreerida aastate ja osakondade alusel ning välja printida või PDF-iks printida ning edastada allkirjastamiseks.
-
-## Raamatupidamise ja personali vaade
-Lisaks on raamatupidajatele ja personalitöötajatele mõeldes loodud eraldi vaade eelolevatest puhkustest näha vaid neile (Lisa 5. Raamatupidamise ja personali vaade). Vaates on võimalik määrata ajavahemikku, mis perioodi puhkuseid kuvatakse, filtreerida kinnitamise staatuse alusel ning kinnitada või tagasi lükata puhkuseavaldusi. Samuti on võimalik puhkustes teha muudatusi kui on vaja.
