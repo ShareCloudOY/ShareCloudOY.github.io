@@ -11,7 +11,7 @@ Albumite kuvamisel saab valida 4 erineva kujunduse vahel:
 Albumid kuvatakse ühel real, automaatselt keritakse albumieid määratud sekundite järel:
 ![](images/picturegallery/pic-standard.gif)
 
-**Cude**
+**Cube**
 
 Albumid kuvatakse 3D kuubikuna, automaatselt keeratakse kuubikut määratud sekundite järel:
 ![](images/picturegallery/pic-cube.gif)
