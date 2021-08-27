@@ -1,4 +1,4 @@
-**Digi-allkirjastamine otse Sharepointis**
+**Digiallkirjastamine otse Sharepointis**
 
 Enam ei pea Sharepointis olevate dokumentide allkirjastamiseks faile alla laadima oma arvutisse. Seda saab teha otse Sharepointi keskkonnas paari hiireklõpsuga.
 
