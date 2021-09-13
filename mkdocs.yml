@@ -6,8 +6,9 @@ nav:
     - Starter Intra: products/starter.md
     - Puhkused: products/vacations.md
     - Dokumendihaldus: products/dms.md
-    - Digi-allkirjastamine: products/digitalSigning.md
+    - Digiallkirjastamine: products/digitalSigning.md
     - Pildigalerii: products/picturegallery.md
+    - Ettevõtte struktuur: products/orgStructure.md
 
   - _Juhendid:
     #- manuals/index.md

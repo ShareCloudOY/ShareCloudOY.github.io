@@ -10,6 +10,8 @@ Käesolevalt saidilt leiab informatsiooni ShareCloud OÜ poolt loodud lahenduste
 
 [Pildigalerii](/products/picturegallery/)
 
+[Ettevõtte struktuur](/products/orgStructure/)
+
 <!-- ??? note "Oluline märkus"
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
