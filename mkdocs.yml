@@ -9,6 +9,7 @@ nav:
     - Digiallkirjastamine: products/digitalSigning.md
     - Pildigalerii: products/picturegallery.md
     - Ettevõtte struktuur: products/orgStructure.md
+    - E-maili signatuur: products/signature.md
 
   - _Juhendid:
     #- manuals/index.md

@@ -12,6 +12,8 @@ Käesolevalt saidilt leiab informatsiooni ShareCloud OÜ poolt loodud lahenduste
 
 [Ettevõtte struktuur](/products/orgStructure/)
 
+[E-maili signatuur](/products/signature/)
+
 <!-- ??? note "Oluline märkus"
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
