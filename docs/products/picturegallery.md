@@ -1,3 +1,5 @@
+*Versioon: 1.0.3.111*
+
 Mugav veebiosa, mis võimaldab kuvada pilditeegist albumeid veebilehele. 
 
 * võimaldab koondada vimased pildialbumid lehele kokku

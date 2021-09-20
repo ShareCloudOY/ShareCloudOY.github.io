@@ -1,4 +1,5 @@
 # Puhkuste haldus
+*Versioon: 1.4.7.112*
 
 Puhkuste halduse lahendus võimaldab ettevõtetel hallata oma töötajate puhkuseid mugavalt ühes kohas.
 

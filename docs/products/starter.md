@@ -1,4 +1,5 @@
 # Siseveebi baaspakett
+*Versioon: 2.4.10.111*
 
 Siseveebi baaspakett sobib igas suuruses ettevõttele ning pakub hea stardipositsiooni ettevõtte siseveebiga alustamiseks. See sisaldab enim kasutatavaid mooduleid, mida oleme näinud läbivalt ettevõtete siseveebides kõige olulisematena.
 
@@ -7,11 +8,11 @@ Siseveeb koondab tööks kogu vajaliku info ettevõtte töötajatele mugavasti �
 ## Eelseadistatud avaleht
 Siseveebi avaleht koondab kõik olulise ning sisaldab peamisi mooduleid ja veebiosasid:
 
-* [Uudised](http://127.0.0.1:8000/products/starter/#uudised)
+* [Uudised](#uudised)
 * Kiirlingid
-* [Eelolevad puhkused](http://127.0.0.1:8000/products/starter/#puhkuste-register)
-* [Sünnipäevad](http://127.0.0.1:8000/products/starter/#sunnipaevade-kuvamine)
-* [Telefoniraamat](http://127.0.0.1:8000/products/starter/#telefoniraamat)
+* [Eelolevad puhkused](#puhkuste-register)
+* [Sünnipäevad](#sunnipaevade-kuvamine)
+* [Telefoniraamat](#telefoniraamat)
 * Üritused
 * [Kontorist väljas](#kontorist-valjas-teadetetahvel)
 * ja palju muud...

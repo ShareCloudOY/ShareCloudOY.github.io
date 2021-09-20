@@ -1,3 +1,5 @@
+*Versioon: 2.0.0.0*
+
 Veebiosa kuvab liigendatult ettevõtte struktuuri. Kõiki sektsioone on võimalik mugavalt kokku lahti klõpsata ja töötaja nimele liikudes kuvatakse kontaktinfot.
 ![](images/orgStructure/orgstr.gif)
 
