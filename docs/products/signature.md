@@ -1,6 +1,4 @@
-﻿# E-maili signatuuri genereermine
-
-E-maili signatuuri genereerimise veebiosa võimaldab lihtsasti luua signatuuri e-maili jalusesse. Lehe laadimisel laetakse kasutaja andmed AD-st. Kõiki andmeid saab redigeerida.
+﻿E-maili signatuuri genereerimise veebiosa võimaldab lihtsasti luua signatuuri e-maili jalusesse. Lehe laadimisel laetakse kasutaja andmed AD-st. Kõiki andmeid saab redigeerida.
 
 ![](images/signature/signature.gif)
 

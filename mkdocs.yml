@@ -10,6 +10,7 @@ nav:
     - Pildigalerii: products/picturegallery.md
     - Ettevõtte struktuur: products/orgStructure.md
     - E-maili signatuur: products/signature.md
+    - Üritused ja koolitused: products/eventsAndTrainings.md
 
   - _Juhendid:
     #- manuals/index.md
@@ -44,3 +45,4 @@ copyright: Copyright &copy; 2021
 markdown_extensions:
   - admonition
   - pymdownx.details
+  - attr_list
