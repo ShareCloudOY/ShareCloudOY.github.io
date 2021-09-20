@@ -11,6 +11,7 @@ nav:
     - Ettevõtte struktuur: products/orgStructure.md
     - E-maili signatuur: products/signature.md
     - Üritused ja koolitused: products/eventsAndTrainings.md
+    - Kasutajate haldus: products/usersManagement.md
 
   - _Juhendid:
     #- manuals/index.md

@@ -14,6 +14,10 @@ Käesolevalt saidilt leiab informatsiooni ShareCloud OÜ poolt loodud lahenduste
 
 [E-maili signatuur](/products/signature/)
 
+[Üritused ja koolitused](/products/eventsAndTrainings/)
+
+[Kasutajate haldus](/products/usersManagement/)
+
 <!-- ??? note "Oluline märkus"
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor

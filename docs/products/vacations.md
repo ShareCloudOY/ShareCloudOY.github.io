@@ -18,7 +18,7 @@ Töötaja saab vormil soovi korral määrata endale asendaja või mitu, valida t
 
 ## Minu puhkused
 
-Minu puhkuste vahelehel kuvatakse kóiki aktiivseid puhkuseid. Lisaks kuvatakse puhkused, mille puhul kasutaja on määratud asendajaks.
+Minu puhkuste vahelehel kuvatakse kõiki aktiivseid puhkuseid. Lisaks kuvatakse puhkused, mille puhul kasutaja on määratud asendajaks.
 ![](images/vacations/my-vacations.png)
 
 ## Puhkuste kinnitamine
