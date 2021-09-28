@@ -12,15 +12,15 @@
         <link rel="canonical" href="https://example.com/products/usersManagement/">
       
       <link rel="icon" href="../../img/favicon.ico">
-      <meta name="generator" content="mkdocs-1.2.2, mkdocs-material-7.2.7">
+      <meta name="generator" content="mkdocs-1.2.2, mkdocs-material-7.3.0">
     
     
       
-        <title>usersManagement - ShareCloud docs</title>
+        <title>Kasutajate haldus - ShareCloud docs</title>
       
     
     
-      <link rel="stylesheet" href="../../assets/stylesheets/main.3c7cdd75.min.css">
+      <link rel="stylesheet" href="../../assets/stylesheets/main.8b42a75e.min.css">
       
         
         <link rel="stylesheet" href="../../assets/stylesheets/palette.3f5d1f46.min.css">
@@ -71,7 +71,9 @@
       
     </div>
     
-      <header class="md-header" data-md-component="header">
+      
+
+<header class="md-header" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Header">
     <a href="https://sharecloudoy.github.io" title="ShareCloud docs" class="md-header__button md-logo" aria-label="ShareCloud docs" data-md-component="logo">
       
@@ -91,7 +93,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              usersManagement
+              Kasutajate haldus
             
           </span>
         </div>
@@ -136,6 +138,7 @@
     
     
   </nav>
+  
 </header>
     
     <div class="md-container" data-md-component="container">
@@ -143,6 +146,7 @@
       
         
           
+            
 <nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
   <div class="md-tabs__inner md-grid">
     <ul class="md-tabs__list">
@@ -205,6 +209,8 @@
 
   
   
+    
+  
 
 
 <!-- Main navigation item with nested items -->
@@ -215,7 +221,7 @@
   <!-- Recurse, if the first item has further nested items -->
   
     <li class="md-tabs__item">
-      <a href="../starter/" class="md-tabs__link">
+      <a href="../starter/" class="md-tabs__link md-tabs__link--active">
         Lahendused
       </a>
     </li>
@@ -248,6 +254,7 @@
     </ul>
   </div>
 </nav>
+          
         
       
       <main class="md-main" data-md-component="main">
@@ -346,6 +353,8 @@
   <!-- Determine class according to state -->
   
   
+    
+  
 
   <!-- Main navigation item with nested items -->
   
@@ -354,7 +363,7 @@
     
 
     <!-- Render item with nested items -->
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
 
       <!-- Active checkbox expands items contained within nested section -->
       
@@ -364,7 +373,7 @@
           data-md-toggle="__nav_2"
           type="checkbox"
           id="__nav_2"
-          
+          checked
         />
       
 
@@ -514,6 +523,64 @@
   
 
           
+            
+
+  <!-- Determine class according to state -->
+  
+  
+    
+  
+
+  <!-- Main navigation item with nested items -->
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+
+      <!-- Active checkbox expands items contained within nested section -->
+      <input
+        class="md-nav__toggle md-toggle"
+        data-md-toggle="toc"
+        type="checkbox"
+        id="__toc"
+      />
+
+      <!-- Hack: see partials/toc.html for more information -->
+      
+      
+
+      <!-- Render table of contents, if not empty -->
+      
+      <a
+        href="./"
+        class="md-nav__link md-nav__link--active"
+      >
+        Kasutajate haldus
+      </a>
+
+      <!-- Show table of contents -->
+      
+    </li>
+
+  <!-- Main navigation item -->
+  
+
+          
+            
+
+  <!-- Determine class according to state -->
+  
+  
+
+  <!-- Main navigation item with nested items -->
+  
+    <li class="md-nav__item">
+      <a href="../projectManagement/" class="md-nav__link">
+        Projektide haldus
+      </a>
+    </li>
+  
+
+          
         </ul>
       </nav>
     </li>
@@ -645,9 +712,15 @@
               
                 
                 
-                  <h1>usersManagement</h1>
+                  <h1>Kasutajate haldus</h1>
                 
-                
+                <p><em>Versioon: 1.0.9.111</em></p>
+<p>Lahendus võimaldab lihtsasti hallata kasutajaid Active Directory-s. Kasutajate halduses on kaks eraldi gruppi: muutjad ja kinnitajad. Kui muutjate gruppi kuuluv isik lisab uue kasutaja või redigeerib olemasolevat, salvestatakse eraldi loendisse muutmistaotlus.</p>
+<p><img alt="Uue kasutaja lisamine" src="../images/usersManagement/createuser.gif" /></p>
+<p>AD kasutajaid saab mugavalt otsida. Kuvatakse nii aktiivseid kui mitteaktiivseid kontosid. Muudatustaotluste detailinfos on kirjas vanad ja uued väärtused.
+<img alt="Kasutaja muutmine" src="../images/usersManagement/edituser.gif" /></p>
+<p>Kinnitajate gruppi(üldjuhul IT töötajad, kes omavad õiguseid AD muudatuste tegemiseks) kuuluvad isikud saavad kinnitada teiste kasutajate poolt loodud muutmistaotlusi. Kui kinnitajate gruppi kuuluv isik lisab uue või redigeerib kasutajat, siis see eraldi kinnitamist ei vaja, muudatused tehakse koheselt.</p>
+<p><img alt="Muudatuste kinnitamine" src="../images/usersManagement/confirmchange.gif" /></p>
                 
               
               
@@ -745,10 +818,10 @@
     <div class="md-dialog" data-md-component="dialog">
       <div class="md-dialog__inner md-typeset"></div>
     </div>
-    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.indexes", "navigation.sections", "navigation.tabs", "navigation.top"], "translations": {"clipboard.copy": "Kopeeri l\u00f5ikelauale", "clipboard.copied": "Kopeeritud", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Otsi", "search.result.placeholder": "Otsimiseks kirjuta siia", "search.result.none": "Otsingule ei leitud \u00fchtegi vastet", "search.result.one": "Leiti \u00fcks tulemus", "search.result.other": "Leiti # tulemust", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "../../assets/javascripts/workers/search.94ec81fe.min.js", "version": null}</script>
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.indexes", "navigation.sections", "navigation.tabs", "navigation.top"], "translations": {"clipboard.copy": "Kopeeri l\u00f5ikelauale", "clipboard.copied": "Kopeeritud", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Otsi", "search.result.placeholder": "Otsimiseks kirjuta siia", "search.result.none": "Otsingule ei leitud \u00fchtegi vastet", "search.result.one": "Leiti \u00fcks tulemus", "search.result.other": "Leiti # tulemust", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "../../assets/javascripts/workers/search.f8263e09.min.js", "version": null}</script>
     
     
-      <script src="../../assets/javascripts/bundle.48dfec6c.min.js"></script>
+      <script src="../../assets/javascripts/bundle.4fc53ad4.min.js"></script>
       
     
   </body>
