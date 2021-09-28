@@ -12,6 +12,7 @@ nav:
     - E-maili signatuur: products/signature.md
     - Üritused ja koolitused: products/eventsAndTrainings.md
     - Kasutajate haldus: products/usersManagement.md
+    - Projektide haldus: products/projectManagement.md
 
   - _Juhendid:
     #- manuals/index.md
