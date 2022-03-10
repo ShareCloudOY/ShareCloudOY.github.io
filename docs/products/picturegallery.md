@@ -1,5 +1,3 @@
-*Versioon: 1.0.3.111*
-
 Mugav veebiosa, mis v천imaldab kuvada pilditeegist albumeid veebilehele. 
 
 * v천imaldab koondada vimased pildialbumid lehele kokku
@@ -27,3 +25,6 @@ Albumid kuvatakse 체hel real 3D kaartidena, automaatselt keritakse albumeid m채�
 
 Albumid kuvatakse mitmel real, d체naamilist liikumist ei ole:
 ![](images/picturegallery/pic-standard.gif)
+
+***
+*Versioon: 1.0.3.111*

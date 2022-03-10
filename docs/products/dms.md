@@ -51,7 +51,15 @@ Vajadusel saab partneri andmeid täiendada ja siis rakendada dokumendile:
 [![](images/dms/applyPartnerInfo.gif)](images/dms/applyPartnerInfo.gif)
 
 ## Dokumendi loomine mallist
-> Täpsem lahenduse kirjeldus tuleb õige pea...
+Ettevõtte dokumendimallide kasutamine annab olulist ajavõitu uute dokumentide loomisel ning tagab alati ühtse stiili ning käekirja dokumentide vormistamisel. Selleks võimaldab lahendus koondada kõik ettevõtte mallid ühte dokumenditeeki ning kasutada neid mistahes Dokumendihalduse kaustas. Mallist dokumendi loomisel saab valida kausta ja õige malli, anda looavale dokumendile nimi ning uus dokument ongi loodud
+
+[![](images/dms/new-doc-from-template.gif)](images/dms/new-doc-from-template.gif)
 ## Dokumentide seostamine
-Võimaldab linkida dokumendid omavahel. Mõlemale dokumendile tekib link seotud failile.
-> Täpsem lahenduse kirjeldus tuleb õige pea...
+Võimaldab linkida dokumendid omavahel. Mõlemale dokumendile tekib link seotud failile. Valida saab seotud dokumenti Sharepointis olemasolevate dokumentide hulgast. Või laadida üles uue seotud dokumendi - sel juhul saab üles laetud dokument ka seotud dokumendi kõik metaandmed.
+[![](images/dms/related-documents.gif)](images/dms/related-documents.gif)
+
+***
+Uuendame ja arendame dokumendihalduse lahendust pidevalt edasi ning kõiki lahenduses olemasolevaid võimalusi ei pruugi siin kirjelduses veel üleval olla.
+Kui Sul on mõte või idee, mis peaks kindlasti veel ühes head dokumendihalduses olema - anna meile julgelt märku: <mihkel@sharecloud.ee>
+
+*Versioon: 1.5.6.112*

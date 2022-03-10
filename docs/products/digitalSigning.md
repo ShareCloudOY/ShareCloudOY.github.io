@@ -1,5 +1,3 @@
-*Versioon: 1.1.1.112*
-
 **Digiallkirjastamine otse Sharepointis**
 
 Enam ei pea Sharepointis olevate dokumentide allkirjastamiseks faile alla laadima oma arvutisse. Seda saab teha otse Sharepointi keskkonnas paari hiireklõpsuga.
@@ -44,3 +42,18 @@ Mitme dokumendi korraga allkirjastamisel saab valida millise dokumendi andmed lo
 
 [![](images/digitalSigning/multipleFilesSigning.png)](images/digitalSigning/multipleFilesSigning.png)
 
+**Kontrolli allkirju**
+
+Juba allkirjastatud digikontreineri sisse on veidi keeruline vaadata. Selleks, et aru saada, kes on juba allkirjastanud võimaldab lahendus kontrollide allkirjade staatust ja kehtivust
+
+[![](images/digitalSigning/check-signatures.gif)](images/digitalSigning/check-signatures.gif)
+
+**Ülevaade allkirjastamise aktiivsusest**
+
+Et aru saada, kui aktiivselt digiallkirjastamise lahendust kasutatakse kogub süsteem anonüümset infot allkirjastamiste kohta ning talletab iga kuu kohta info mitu allkirjastamist ning allkirja kontrolli on mingis SP saidis tehtud
+
+***
+Uuendame ja arendame digiallkirjastamise lahendust pidevalt edasi ning kõiki lahenduses olemasolevaid võimalusi ei pruugi siin kirjelduses veel üleval olla.
+Kui Sul on mõte või idee, mis peaks kindlasti veel ühes head digiallkirjastamise lahenduses olema - anna meile julgelt märku: <mihkel@sharecloud.ee>
+
+*Versioon: 1.1.5.112*

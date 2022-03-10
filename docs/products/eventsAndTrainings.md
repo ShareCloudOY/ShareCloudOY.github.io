@@ -1,4 +1,4 @@
-﻿*Versioon: 1.0.4.0*
+﻿
 
 Veebiosa võimaldab kasutajatel kuvada eelolevaid sündmuseid, hallata ja registreeruda sündmustele. Kogu haldamine on veebiosa sätetes detailselt seadistatav. Saab määrata eraldi sündmuste loojate ja administraatorite grupid. Toetatud on ka sündmustega seotud e-maili teavitused.
 
@@ -8,3 +8,6 @@ Sündmuse pealkirjale klikkides avaneb detailinfo paneel, koos registreerimise n
 
 Uue sündmuse loomisel saab lisaks detailinfole määrata ka sihgrupid, kellele sündmust näidatakse ja kellel on võimalik sündmusele registreerida. Manuste lisamine on samuti võimaldatud.
 ![Sündmuse loomine](images/eventsAndTrainings/createevent.gif)
+
+***
+*Versioon: 1.0.4.0*

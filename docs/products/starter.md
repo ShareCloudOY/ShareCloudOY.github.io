@@ -1,5 +1,4 @@
 # Siseveebi baaspakett
-*Versioon: 2.4.10.111*
 
 Siseveebi baaspakett sobib igas suuruses ettevõttele ning pakub hea stardipositsiooni ettevõtte siseveebiga alustamiseks. See sisaldab enim kasutatavaid mooduleid, mida oleme näinud läbivalt ettevõtete siseveebides kõige olulisematena.
 
@@ -103,3 +102,9 @@ Võimaldab sisse kanda ning näha kolleegide planeeritavaid puhkuseid
 * albumil klõpsates suunatakse kasutaja vastavasse albumi kausta pilte vaatama
 
 ![](images/starter/picturegallery.png)
+
+***
+Uuendame ja arendame siseveebi lahendust pidevalt edasi ning kõiki lahenduses olemasolevaid võimalusi ei pruugi siin kirjelduses veel üleval olla.
+Kui Sul on mõte või idee, mis peaks kindlasti veel ühes head siseveebis olema - anna meile julgelt märku: <mihkel@sharecloud.ee>
+
+*Versioon: 2.4.10.111*
