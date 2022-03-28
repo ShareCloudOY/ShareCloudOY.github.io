@@ -7,7 +7,7 @@ Töötaja saab vormil soovi korral määrata endale asendaja või mitu, valida t
 
  Süsteem pakub kasutajale vaid neid puhkuseliike, mida tal on õigus kasutada. Sõltuvalt valitud puhkuseliigist arvutab süsteem tema kasutada olevate puhkusepäevade jäägi. 
  
- Samal vormil saab sisestada mitme puhkuse avaldused korraga. Süsteem arvestab ning teavitav riigipühadest valitud puhkuseperioodil ning hoiatab, kui sisestatav puhkus kattub mõne asendaja puhkusega. 
+ Samal vormil saab sisestada mitme puhkuse avaldused korraga. Süsteem arvestab ning teavitab riigipühadest valitud puhkuseperioodil ning hoiatab, kui sisestatav puhkus kattub mõne asendaja puhkusega. 
  
  Puhkuseavaldusega on võimalik kaasa lisada manusena dokumenti. Näiteks tõend õppepuhkuse või lapsepuhkuse saamiseks.
  
@@ -29,7 +29,7 @@ Samuti saab töötaja näha enda puhkusejääke puhkuseliikide lõikes, kus esim
 
 ## Puhkuste kinnitamine
 
-Puhkuste kinnitamise vahelehte näevad vaid kinnitajate gruppi kuuluvad kasutajad. Kasutajale näidatakse vaid tema alluvatele kuuluvaid puhkuseid. Puhkuseid on võimalik valida ühe või mitme kaupa ja kinnitada kõik või tagasi lükata. Tagasi lükkamisel on võimalus sisetada kommentaar otsuse kohta.
+Puhkuste kinnitamise vahelehte näevad vaid kinnitajate gruppi kuuluvad kasutajad. Kasutajale näidatakse vaid tema alluvatele kuuluvaid puhkuseid. Puhkuseid on võimalik valida ühe või mitme kaupa ja kinnitada kõik või tagasi lükata. Tagasi lükkamisel on võimalus sisestada kommentaar otsuse kohta.
 
 ![](images/vacations/approval.png)
 
