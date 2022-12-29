@@ -43,7 +43,7 @@ extra:
       link: https://www.linkedin.com/company/sharecloud/
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/ShareCloudOU
-copyright: Copyright &copy; 2021 
+copyright: Copyright &copy; 2022 
 markdown_extensions:
   - admonition
   - pymdownx.details

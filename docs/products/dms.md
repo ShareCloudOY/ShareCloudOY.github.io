@@ -1,5 +1,4 @@
 # Dokumendihaldus Sharepointis
-*Versioon: 1.3.5.110*
 
 Sharepoint on suurepärane platvorm tööks dokumentidega ja nende haldamiseks.
 Vaikimisi on toetatud sellised olulised funktsionaalsused nagu:

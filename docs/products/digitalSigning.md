@@ -52,6 +52,12 @@ Juba allkirjastatud digikontreineri sisse on veidi keeruline vaadata. Selleks, e
 
 Et aru saada, kui aktiivselt digiallkirjastamise lahendust kasutatakse kogub süsteem anonüümset infot allkirjastamiste kohta ning talletab iga kuu kohta info mitu allkirjastamist ning allkirja kontrolli on mingis SP saidis tehtud
 
+**Vaata konteineris olevaid faile**
+
+Digiallkirjastatud failide hoidmisel Sharepointis on pikka aega olnud üks mure - konteiner-faili sisse nägemiseks pidi selle alla laadima. Oleme täiendanud digiallkirjastamise lahendust selliselt, et see võimaldab kasutajale kuvada ka konteineris olevaid faile. Tegime selle nii lihtsaks, et näed koguni faili sisu otse browserist.
+
+[![](images/digitalSigning/viewingDigidocFiles.gif)](images/digitalSigning/viewingDigidocFiles.gif)
+
 ***
 Uuendame ja arendame digiallkirjastamise lahendust pidevalt edasi ning kõiki lahenduses olemasolevaid võimalusi ei pruugi siin kirjelduses veel üleval olla.
 Kui Sul on mõte või idee, mis peaks kindlasti veel ühes head digiallkirjastamise lahenduses olema - anna meile julgelt märku: <mihkel@sharecloud.ee>
