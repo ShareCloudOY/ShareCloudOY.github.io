@@ -6,11 +6,13 @@ Enam ei pea Sharepointis olevate dokumentide allkirjastamiseks faile alla laadim
 
 **Lahenduse eelised:**
 
+* **UUS!** failide vaatamine digikonteineri seest otse browseris
 * Smart-ID allkirjastamine
 * Mobiil-ID allkirjastamine
 * allkirjasta mitu dokumenti korraga
 * dokumendi andmed kantakse üle allkirjastatud failile
 * toimib ka mobiiltelefonis Sharepointi rakenduses
+
 
 **Kuidas kasutada?**
 
@@ -62,4 +64,4 @@ Digiallkirjastatud failide hoidmisel Sharepointis on pikka aega olnud üks mure 
 Uuendame ja arendame digiallkirjastamise lahendust pidevalt edasi ning kõiki lahenduses olemasolevaid võimalusi ei pruugi siin kirjelduses veel üleval olla.
 Kui Sul on mõte või idee, mis peaks kindlasti veel ühes head digiallkirjastamise lahenduses olema - anna meile julgelt märku: <mihkel@sharecloud.ee>
 
-*Versioon: 1.1.5.112*
+*Versioon: 1.1.9.112*

@@ -8,6 +8,8 @@ Käesolevalt saidilt leiab informatsiooni ShareCloud OÜ poolt loodud lahenduste
 
 [Dokumendihaldus](/products/dms/)
 
+[Digiallkirjastamine](/products/digitalsigning/)
+
 [Pildigalerii](/products/picturegallery/)
 
 [Ettevõtte struktuur](/products/orgStructure/)
