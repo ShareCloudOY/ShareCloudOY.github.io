@@ -6,7 +6,7 @@ Enam ei pea Sharepointis olevate dokumentide allkirjastamiseks faile alla laadim
 
 **Lahenduse eelised:**
 
-* **UUS!** failide vaatamine digikonteineri seest otse browseris
+* failide vaatamine digikonteineri seest otse browseris
 * Smart-ID allkirjastamine
 * Mobiil-ID allkirjastamine
 * allkirjasta mitu dokumenti korraga
