@@ -2,12 +2,12 @@
 * install Python Extension and follow tutorial: https://code.visualstudio.com/docs/python/python-tutorial
 * To install MkDocs run following command:
 ```
-pip install mkdocs
-pip install mkdocs-material
+py -m pip install mkdocs
+py -m pip install mkdocs-material
 ```
 * 
 
-## Running locally
+## Running locallymp
 * run following:
 ```
 mkdocs serve

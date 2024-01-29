@@ -7,6 +7,7 @@ nav:
     - Puhkused: products/vacations.md
     - Dokumendihaldus: products/dms.md
     - Digiallkirjastamine: products/digitalSigning.md
+    - Digiallkirjastamine välise osapoolega: products/digitalSigningExternal.md
     - Pildigalerii: products/picturegallery.md
     - Ettevõtte struktuur: products/orgStructure.md
     - E-maili signatuur: products/signature.md
@@ -43,7 +44,7 @@ extra:
       link: https://www.linkedin.com/company/sharecloud/
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/ShareCloudOU
-copyright: Copyright &copy; 2023 
+copyright: Copyright &copy; 2024 
 markdown_extensions:
   - admonition
   - pymdownx.details
