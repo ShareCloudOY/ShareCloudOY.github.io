@@ -77,4 +77,4 @@ Et aru saada, kui aktiivselt digiallkirjastamise lahendust kasutatakse kogub sü
 Uuendame ja arendame digiallkirjastamise lahendust pidevalt edasi ning kõiki lahenduses olemasolevaid võimalusi ei pruugi siin kirjelduses veel üleval olla.
 Kui Sul on mõte või idee, mis peaks kindlasti veel ühes head digiallkirjastamise lahenduses olema - anna meile julgelt märku: <mihkel@sharecloud.ee> -->
 
-_Versioon: 1.3.1.180_
+_Versioon: 1.3.1.181_
