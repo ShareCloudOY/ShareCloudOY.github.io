@@ -10,7 +10,7 @@ py -m pip install mkdocs-material
 ## Running locallymp
 * run following:
 ```
-mkdocs serve
+py -m mkdocs serve
 ```
 ## Production
 Commit to 'master' branch will initialize pipeline to build up website on address: https://sharecloudoy.github.io
