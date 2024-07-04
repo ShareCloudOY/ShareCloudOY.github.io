@@ -8,13 +8,13 @@
       
       
       
-        <link rel="canonical" href="https://example.com/products/eventsAndTrainings/">
+        <link rel="canonical" href="https://example.com/products/digitalSigningExternal/">
       
       
-        <link rel="prev" href="../signature/">
+        <link rel="prev" href="../digitalSigning/">
       
       
-        <link rel="next" href="../usersManagement/">
+        <link rel="next" href="../picturegallery/">
       
       
       <link rel="icon" href="../../img/favicon.ico">
@@ -22,7 +22,7 @@
     
     
       
-        <title>Üritused ja koolitused - ShareCloud docs</title>
+        <title>Digiallkirjastamine välise osapoolega - ShareCloud docs</title>
       
     
     
@@ -100,7 +100,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Üritused ja koolitused
+              Digiallkirjastamine välise osapoolega
             
           </span>
         </div>
@@ -561,14 +561,34 @@
   <!-- Determine classes -->
   
   
+    
+  
 
   <!-- Determine active page for paginated views -->
   
 
   <!-- Navigation item with nested items -->
   
-    <li class="md-nav__item">
-      <a href="../digitalSigningExternal/" class="md-nav__link">
+    <li class="md-nav__item md-nav__item--active">
+      
+
+      <!-- State toggle -->
+      <input
+        class="md-nav__toggle md-toggle"
+        type="checkbox"
+        id="__toc"
+      />
+
+      <!-- Hack: see partials/toc.html for more information -->
+      
+      
+
+      <!-- Navigation link to table of contents -->
+      
+      <a
+        href="./"
+        class="md-nav__link md-nav__link--active"
+      >
         
 
   <!-- Navigation link icon -->
@@ -583,7 +603,12 @@
   
 
       </a>
+
+      <!-- Table of contents -->
+      
     </li>
+
+  <!-- Navigation item -->
   
 
               
@@ -693,34 +718,14 @@
   <!-- Determine classes -->
   
   
-    
-  
 
   <!-- Determine active page for paginated views -->
   
 
   <!-- Navigation item with nested items -->
   
-    <li class="md-nav__item md-nav__item--active">
-      
-
-      <!-- State toggle -->
-      <input
-        class="md-nav__toggle md-toggle"
-        type="checkbox"
-        id="__toc"
-      />
-
-      <!-- Hack: see partials/toc.html for more information -->
-      
-      
-
-      <!-- Navigation link to table of contents -->
-      
-      <a
-        href="./"
-        class="md-nav__link md-nav__link--active"
-      >
+    <li class="md-nav__item">
+      <a href="../eventsAndTrainings/" class="md-nav__link">
         
 
   <!-- Navigation link icon -->
@@ -735,12 +740,7 @@
   
 
       </a>
-
-      <!-- Table of contents -->
-      
     </li>
-
-  <!-- Navigation item -->
   
 
               
@@ -1031,16 +1031,82 @@
                   
 
 
-  <h1>Üritused ja koolitused</h1>
+  <h1>Digiallkirjastamine välise osapoolega</h1>
 
-<p>Veebiosa võimaldab kasutajatel kuvada eelolevaid sündmuseid, hallata ja registreeruda sündmustele. Kogu haldamine on veebiosa sätetes detailselt seadistatav. Saab määrata eraldi sündmuste loojate ja administraatorite grupid. Toetatud on ka sündmustega seotud e-maili teavitused.</p>
-<p>Veebiosas vaikimisi kuvatakse eelolevaid sündmuseid, mille periood on eraldi seadistatav. Eraldi saab valida ka kõik eelolevad sündmused.
-Sündmuse pealkirjale klikkides avaneb detailinfo paneel, koos registreerimise nupuga. Kui sündmuse puhul on osalejate info avalikuks tehtud, näidatakse ka osalejate nimekirja.
-<img alt="Kuvamine ja registreerimine" src="../images/eventsAndTrainings/viewandregister.gif" style="width:1400px" /></p>
-<p>Uue sündmuse loomisel saab lisaks detailinfole määrata ka sihgrupid, kellele sündmust näidatakse ja kellel on võimalik sündmusele registreerida. Manuste lisamine on samuti võimaldatud.
-<img alt="Sündmuse loomine" src="../images/eventsAndTrainings/createevent.gif" /></p>
-<hr />
-<p><em>Versioon: 1.0.4.0</em></p>
+<p><strong>Digiallkirjastamine otse Sharepointis</strong></p>
+<p>Enam ei pea Sharepointis olevate dokumentide allkirjastamiseks faile alla laadima oma arvutisse. Seda saab teha otse Sharepointi keskkonnas paari hiireklõpsuga. Nüüd saab allkirjastamiseks saata dokumente ka välistele osapooltele - partneritele, alltöövõtjatele, klientidele, jne.</p>
+<p><img alt="Woman giving digital signature in tablet" src="../images/digitalSigningExternal/woman-signing-in-tablet.jpg" /></p>
+<p><strong>Lahenduse eelised:</strong></p>
+<ul>
+<li>allkirjasta dokumente otse Sharepointis</li>
+<li>saada allkirjastaiseks dokumente ka <strong>välistele osapooltele</strong></li>
+<li>saab määrata allkirjastajate järjekorra</li>
+<li><strong>failide kuvamine digikonteineri seest</strong> otse browseris</li>
+<li>kontrolli allkirjade staatust ja kehtivust</li>
+<li>allkirjasta mitu dokumenti korraga</li>
+<li>toetatud asice ja PDF tüüpi allkirjastamine</li>
+<li></li>
+</ul>
+<p><strong>Kuidas kasutada?</strong></p>
+<ol>
+<li>Allkirjastamiseks vali dokument või dokumendid, mida soovid allkirjastada ning klõpsa nupul 'Sign':</li>
+</ol>
+<p><a href="../images/digitalSigningExternal/StartExternalSiging.gif"><img alt="" src="../images/digitalSigningExternal/StartExternalSiging.gif" /></a></p>
+<ol>
+<li>
+<p>Avanevas paneelis saab valida Asice või PDF tüüpi allkirjastamise vahel. Sulle kuvatakse valitud dokumendid, mida allkirjastamisele saadetakse. </p>
+<p>Allkirjastajate plokis saad määrata, kas allkirjastajate järjekord on oluline või mitte. Ning seejärel lisada allkirjastajad. Allkirjastajateks saab valida isikuid nii enda ettevõttest kui ka väliseid osapooli. Väliste osapoolte lisamiseks tuleb sisestada nende nimi ja emaili aadress. </p>
+<p>Iga allkirjastamise protsessis osaleja puhul saab määrata, kas ta on allkirjastaja või vaatleja antud protsessis.</p>
+</li>
+<li>
+<p>Iga allkirjastaja saab emaili teavituse, et talle on edastatud failid allkirjastamiseks</p>
+</li>
+</ol>
+<p><a href="../images/digitalSigningExternal/EmailForSigner.png"><img alt="" src="../images/digitalSigningExternal/EmailForSigner.png" /></a></p>
+<ol>
+<li>Lingil või nupul klõpsates avaneb veebibrowseris allkirjastamise leht, kus saab tutvuda allkirjastatavate dokumentidega ning allkirjastada neid. Allkirjastamiseks saab kasutada ID-kaarti, Smart-ID või Mobiil-ID lahendust. Toetatud on erinevad keeled ja erinevate riikide allkirjastamise meetodid. Täpsemalt infot selle kohta: </li>
+</ol>
+<p><a href="../images/digitalSigningExternal/DokobitSigningPage.png"><img alt="" src="../images/digitalSigningExternal/DokobitSigningPage.png" /></a></p>
+<ol>
+<li>Peale edukat allkirjastamist kõigi osapoolte poolt saadab süsteem kõigile osapooltele emaili, et allkirjastamine on lõpetatud. </li>
+</ol>
+<p><a href="../images/digitalSigningExternal/AllSignersSigned.png"><img alt="" src="../images/digitalSigningExternal/AllSignersSigned.png" /></a></p>
+<ol>
+<li>Allkirjastatud failid salvestatakse otse Sharepointis ning nende sisuga saab tutvuda otse browseris</li>
+</ol>
+<p><a href="../images/digitalSigningExternal/ViewSignedFiles.gif"><img alt="" src="../images/digitalSigningExternal/ViewSignedFiles.gif" /></a></p>
+<!-- **PDF tüüpi allkirjastamine** -->
+
+<!-- **Andmed kanduvad allkirjastatud failile üle**
+
+Sageli kasutatakse dokumentide paremaks leidmiseks täiendavaid andmeveerge, mis dokumenti kirjeldavad (tähtaeg, lepingu number, vastutaja, jne).
+Allkirjastamise käigus kantakse kõik valitud dokumendi andmed üle ka allkirjastatud failile.
+Mitme dokumendi korraga allkirjastamisel saab valida millise dokumendi andmed loodavale allkirjastatud failile üle kantakse.
+
+[![](images/digitalSigning/multipleFilesSigning.png)](images/digitalSigning/multipleFilesSigning.png)
+
+**Kontrolli allkirju**
+
+Juba allkirjastatud digikontreineri sisse on veidi keeruline vaadata. Selleks, et aru saada, kes on juba allkirjastanud võimaldab lahendus kontrollide allkirjade staatust ja kehtivust
+
+[![](images/digitalSigning/check-signatures.gif)](images/digitalSigning/check-signatures.gif)
+
+**Vaata konteineris olevaid faile**
+
+Digiallkirjastatud failide hoidmisel Sharepointis on pikka aega olnud üks mure - konteiner-faili sisse nägemiseks pidi selle alla laadima. Oleme täiendanud digiallkirjastamise lahendust selliselt, et see võimaldab kasutajale kuvada ka konteineris olevaid faile. Tegime selle nii lihtsaks, et näed koguni faili sisu otse browserist.
+
+[![](images/digitalSigning/viewingDigidocFiles.gif)](images/digitalSigning/viewingDigidocFiles.gif)
+
+**Ülevaade allkirjastamise aktiivsusest**
+
+Et aru saada, kui aktiivselt digiallkirjastamise lahendust kasutatakse kogub süsteem anonüümset infot allkirjastamiste kohta ning talletab iga kuu kohta info mitu allkirjastamist ning allkirja valideerimist on mingis SP saidis tehtud.
+
+---
+
+Uuendame ja arendame digiallkirjastamise lahendust pidevalt edasi ning kõiki lahenduses olemasolevaid võimalusi ei pruugi siin kirjelduses veel üleval olla.
+Kui Sul on mõte või idee, mis peaks kindlasti veel ühes head digiallkirjastamise lahenduses olema - anna meile julgelt märku: <mihkel@sharecloud.ee> -->
+
+<p><em>Versioon: 1.3.1.181</em></p>
 
 
 
