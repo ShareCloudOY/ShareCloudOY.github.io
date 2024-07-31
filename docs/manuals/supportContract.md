@@ -51,8 +51,8 @@ tunnihinnaks 77,00€
 </br>Kasutajatuge osutatakse tööpäeviti (välja arvatud nädalavahetused ja riigipühad) ajavahemikus 
 09:00-17:00 (tugiteenuse tööaeg).
 
-Tugiteenuse pakettide hinnad on indikatiivsed ja siduva pakkumise küsimiseks võtke meiega kindlasti ühendust.
-Tugiteenusega liitumise soovist andke palun teada info@sharecloud.ee või otse enda 
-ShareCloudi kontaktisikule. </br></br>
+!!! note ""
+     Tugiteenuse pakettide hinnad on indikatiivsed ja siduva pakkumise küsimiseks võtke meiega kindlasti ühendust.
+    Tugiteenusega liitumise soovist andke palun teada <a href="mailto:info@sharecloud.ee">info@sharecloud.ee</a> või otse enda ShareCloudi kontaktisikule.
 
 <b>Jätkuvat edukat koostööd! </b>
