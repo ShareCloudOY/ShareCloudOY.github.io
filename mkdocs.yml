@@ -3,7 +3,7 @@ site_url: https://example.com/
 nav:
   - Avaleht: index.md
   - Lahendused:
-    - Starter Intra: products/starter.md
+    - Starter-Intra: products/starter.md
     - Puhkused: products/vacations.md
     - Dokumendihaldus: products/dms.md
     - Digiallkirjastamine: products/digitalSigning.md
@@ -13,7 +13,6 @@ nav:
     - E-maili signatuur: products/signature.md
     - Üritused ja koolitused: products/eventsAndTrainings.md
     - Kasutajate haldus: products/usersManagement.md
-    - Projektide haldus: products/projectManagement.md
 
   - _Juhendid:
     #- manuals/index.md
@@ -22,8 +21,11 @@ nav:
 
 theme:
   name: material
+  font:
+    text: Roboto
   palette:
     primary: blue
+    accent: deep orange
   favicon: img/favicon.ico
   custom_dir: overrides
   logo: assets/logo.png
