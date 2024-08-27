@@ -11,7 +11,6 @@ Teile sobivaima teenuse saamiseks piisab vaid õige paketi valimisest. Pakettide
 ### <b>Baastaseme tugiteenus</b>
 Sobib eelkõige väiksema ärikriitilisusega lahenduste puhul
 
-* ShareCloud toodete uuenduste saamine tugiteenuse kehtivuse perioodil 
 * Ligipääs ShareCloud kasutajatoe süsteemile 
 * Reageerimine kriitiliste süsteemi tõrgete korral: <b>teate laekumisele järgneva 
 tööpäeva kella 10:00-ks</b> 
@@ -50,6 +49,7 @@ tunnihinnaks 77,00€
 
 </br>Kasutajatuge osutatakse tööpäeviti (välja arvatud nädalavahetused ja riigipühad) ajavahemikus 
 09:00-17:00 (tugiteenuse tööaeg).
+</br>Tugilepingu sõlmimisel on lepingu minimalane kestus 6 kuud. Lepingu lõppemisel pikeneb leping automaatselt.
 
 !!! note ""
      Tugiteenuse pakettide hinnad on indikatiivsed ja siduva pakkumise küsimiseks võtke meiega kindlasti ühendust.
